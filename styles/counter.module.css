@@ -1,0 +1,35 @@
+.nav3 {
+  background-color: rgb(58, 68, 68);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 260px;
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: xx-large;
+  color: rgb(234, 240, 234);
+  pointer-events: fill;
+}
+.btn1 {
+  background-color: rgb(48, 15, 231);
+  color: aliceblue;
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 80px;
+
+}
+.btn2 {
+  background-color: rgb(26, 205, 211);
+  color: aliceblue;
+  padding: 20px;
+  border-radius: 10px;
+
+}
